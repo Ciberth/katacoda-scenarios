@@ -1,0 +1,1 @@
+Hello, this is a test scenario on katacoda to learn the environment. Let's start with an introduction to the CLI = (Command Line Interface) on Linux. All commands will run on a Ubuntu 19.04 environment.
